@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsBuildTime.Android", "FormsBuildTime\FormsBuildTime.Android\FormsBuildTime.Android.csproj", "{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FormsBuildTime", "FormsBuildTime\FormsBuildTime\FormsBuildTime.shproj", "{303ED7EF-CF56-4CC3-A04E-C18ADCE7BF97}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FormsBuildTime\FormsBuildTime\FormsBuildTime.projitems*{303ed7ef-cf56-4cc3-a04e-c18adce7bf97}*SharedItemsImports = 13
+		FormsBuildTime\FormsBuildTime\FormsBuildTime.projitems*{f21a2906-dc53-4f9c-8f02-92bc4ddfcd56}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21A2906-DC53-4F9C-8F02-92BC4DDFCD56}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307863F9-4CE9-4AD7-9823-CA0A3861E2ED}
+	EndGlobalSection
+EndGlobal
