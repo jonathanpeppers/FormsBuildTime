@@ -1,6 +1,6 @@
 # FormsBuildTime
 
-A quick sample to show how setting `DebugType=portable` can improve Xamarin.Android build times on Windows.
+A quick sample to show how setting `DebugType=portable` can improve Xamarin.Android build times on Windows. This is basically File->New Project of the Forms Master/Detail template. I didn't change any code in the project.
 
 Here is what I did to reproduce this:
 - Checked out a copy of `xamarin-android/master/1826ec2` and built it on Windows `msbuild Xamarin.Android.sln /t:Prepare` then `msbuild Xamarin.Android.sln`
